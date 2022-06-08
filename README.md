@@ -25,18 +25,8 @@
 5. **Commit Message** :
    - [Solve] ✍ #BOJ 2573.미팅주선하기
    - [Solve] ✍ #Programmers 괄호변환
-
-## 😎 Contributer
-
-<a href = "https://github.com/Kim-SuBin">
-  <img src="https://avatars.githubusercontent.com/u/46712693?s=400&u=fbd9c6ca52af3c7505d69cfaa47e829c443c980a&v=4" alt="subin" width="80" style="max-width:100%" />
-</a>
-<a href = "https://github.com/Juyoung4">
-  <img src="https://avatars.githubusercontent.com/u/47167335?s=400&u=e1c1bb39470956b96c192da2cff48b480780e51a&v=4" alt="juyoung" width="80" style="max-width:100%" />
-</a>
-<a href = "https://github.com/sejin-k">
-  <img src="https://avatars.githubusercontent.com/u/48510236?v=4" alt="sejin" width="80" style="max-width:100%" />
-</a>
+   - [Update] ✍️ README.md
+6. 4주마다 2시간 동안 모의 코딩 테스트 진행
 
 ## 👩‍💻 To Slove
 <table>
@@ -51,3 +41,16 @@
     <td><a herf="https://www.acmicpc.net/problem/2016">미팅주선하기</a></td>
   </tbody>
 </table>
+
+
+## 😎 Contributer
+
+<a href = "https://github.com/Kim-SuBin">
+  <img src="https://avatars.githubusercontent.com/u/46712693?s=400&u=fbd9c6ca52af3c7505d69cfaa47e829c443c980a&v=4" alt="subin" width="80" style="max-width:100%" />
+</a>
+<a href = "https://github.com/Juyoung4">
+  <img src="https://avatars.githubusercontent.com/u/47167335?s=400&u=e1c1bb39470956b96c192da2cff48b480780e51a&v=4" alt="juyoung" width="80" style="max-width:100%" />
+</a>
+<a href = "https://github.com/sejin-k">
+  <img src="https://avatars.githubusercontent.com/u/48510236?v=4" alt="sejin" width="80" style="max-width:100%" />
+</a>
