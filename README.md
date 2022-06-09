@@ -29,18 +29,9 @@
 6. 4주마다 2시간 동안 모의 코딩 테스트 진행
 
 ## 👩‍💻 To Slove
-<table>
-  <thead>
-    <th>Week</th>
-    <th>Problem 1</th>
-    <th>Problem 2</th>
-  </thead>
-  <tbody>
-    <td>Week 01</td>
-    <td><a herf="https://programmers.co.kr/learn/courses/30/lessons/60058">괄호변환</a></td>
-    <td><a herf="https://www.acmicpc.net/problem/2016">미팅주선하기</a></td>
-  </tbody>
-</table>
+|Week|Problem 1|Problem 2|
+|---|---|---|
+|Week 01|[괄호변환](https://programmers.co.kr/learn/courses/30/lessons/60058)|[미팅주선하기](https://www.acmicpc.net/problem/2016)|
 
 
 ## 😎 Contributer
