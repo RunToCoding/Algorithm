@@ -18,7 +18,7 @@
 2. 매주 월요일 `22:00` 코드 리뷰
 3. **각 주차별 Directory Name** : 'Week{num}'
     - num : 2자리 숫자로
-    - ex) Week01
+    - ex) week01
 4. **Directory Name** : `{사이트명}문제번호`
     - 백준 : BOJ2573
     - 프로그래머스 : Programmers60058 (URL에 존재하는 번호 사용)
