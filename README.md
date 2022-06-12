@@ -21,7 +21,7 @@
     - ex) week01
 4. **Directory Name** : `{사이트명}문제번호_푼사람`
     - 백준 : BOJ2573_SB
-    - 프로그래머스 : Programmers60058 (URL에 존재하는 번호 사용)
+    - 프로그래머스 : Programmers60058_SB (URL에 존재하는 번호 사용)
 5. **Commit Message** :
    - [Solve] ✍ #BOJ 2573.미팅주선하기
    - [Solve] ✍ #Programmers 괄호변환
