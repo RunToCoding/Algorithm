@@ -32,7 +32,7 @@
 |Week|Problem 1|Problem 2|
 |---|---|---|
 |Week 01|[괄호변환](https://programmers.co.kr/learn/courses/30/lessons/60058)|[미팅주선하기](https://www.acmicpc.net/problem/2016)|
-
+|Week 02|[배달](https://programmers.co.kr/learn/courses/30/lessons/12978)|[줄어드는수](https://www.acmicpc.net/problem/1174)|
 
 ## 😎 Contributer
 
