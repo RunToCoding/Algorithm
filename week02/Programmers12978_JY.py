@@ -7,7 +7,7 @@ def solution(N, road, K):
     queue = deque([])
     queueCheck = [1e9]*(N+1)
 
-    roadPosible = {}
+    roadPosible = {} 
 
     for a, b, c in road:
         if not roadMap[a][b] or roadMap[a][b] > c:
