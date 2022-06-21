@@ -6,10 +6,6 @@ import java.util.Scanner;
 
 /*
 BOJ 1174 줄어드는 수
-1. 1~10번재 -> 한 자리 수
-2. 두 자리 수부터는 각 자리별 숫자 비교
-   2-1. 앞자리 숫자보다 뒷자리 숫자가 더 작으면 count
-   2-2. 앞자리 숫자와 뒷자리 숫자가 같아지면 앞자리 숫자 +1, 뒷자리 0으로 초기화 (count X)
 가장 큰 줄어드는 수는 9876543210 이다.
 감소하는 수는 각 숫자가 겹치면 안되기 때문에 한 번 밖에 사용하지 못한다.
 그러므로 N이 1024보다 커지는 경우는 무조건 -1이다.
@@ -18,7 +14,6 @@ public class BOJ1174_SB {
     static ArrayList<Long> descreasingNumber = new ArrayList<>();
 
     public static void createDecreasingNumber(long number, int digit) { // 현재 숫자, 자릿수, 줄어드는 수 리스트
-        if (digit > 10) return;
 
         descreasingNumber.add(number);
 
