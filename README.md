@@ -16,7 +16,7 @@
 > 📅 2022.06.13
 1. 매주 2문제
 2. 매주 월요일 `22:00` 코드 리뷰
-3. **각 주차별 Directory Name** : 'Week{num}'
+3. **각 주차별 Directory Name** : `Week{num}`
     - num : 2자리 숫자로
     - ex) week01
 4. **Directory Name** : `{사이트명}문제번호_푼사람`
@@ -27,12 +27,14 @@
    - [Solve] ✍ #Programmers 괄호변환
    - [Update] ✍️ README.md
 6. 4주마다 2시간 동안 모의 코딩 테스트 진행
+7. 난이도 : 백준 실버 1 - 골드 4, 프로그래머스 Level 2 - 3
 
 ## 👩‍💻 To Slove
 |Week|Problem 1|Problem 2|
 |---|---|---|
 |Week 01|[괄호변환](https://programmers.co.kr/learn/courses/30/lessons/60058)|[미팅주선하기](https://www.acmicpc.net/problem/2016)|
 |Week 02|[배달](https://programmers.co.kr/learn/courses/30/lessons/12978)|[줄어드는수](https://www.acmicpc.net/problem/1174)|
+|Week 03|[땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)|[수익](https://www.acmicpc.net/problem/4097)|
 
 ## 😎 Contributer
 
