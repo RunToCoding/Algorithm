@@ -47,3 +47,9 @@
 <a href = "https://github.com/sejin-k">
   <img src="https://avatars.githubusercontent.com/u/48510236?v=4" alt="sejin" width="80" style="max-width:100%" />
 </a>
+<a href = "https://github.com/chlwldbs8136">
+  <img src="https://avatars.githubusercontent.com/u/82267227?v=4" alt="juyun" width="80" style="max-width:100%" />
+</a>
+<a href = "https://github.com/suhyeji">
+  <img src="https://avatars.githubusercontent.com/u/65303837?v=4" alt="yeji" width="80" style="max-width:100%" />
+</a>
