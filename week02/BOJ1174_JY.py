@@ -47,7 +47,7 @@ else: # 두자리 이상은 줄어드는 수 확인
         else: 
             digit += 1
 
-            if digit >= 12: 
+            if digit >= 11: 
                 print(-1)
                 stop = True
                 break
