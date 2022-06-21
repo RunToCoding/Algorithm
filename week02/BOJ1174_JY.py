@@ -37,12 +37,7 @@ else: # 두자리 이상은 줄어드는 수 확인
                         numInfo[cur][i] += [10**(digit-1)*i + num for num in numInfo[pre][j]]
                         curN += numInfoCount[pre][j]
                         numInfoCount[cur][i] += numInfoCount[pre][j]
-
-                        if numInfo[cur][i][-1] > maxN: 
-                            print(-1)
-                            stop=True
-                            break
-                                              
+       
                     else: # 경우의 수 찾아서 출력
                         print(10**(digit-1)*i + numInfo[pre][j][N-curN-1])
                         stop=True
@@ -51,10 +46,16 @@ else: # 두자리 이상은 줄어드는 수 확인
                 if stop: break
         else: 
             digit += 1
+
+            if digit >= 12: 
+                print(-1)
+                stop = True
+                break
             if not curPoint : curPoint = 1
             else: curPoint = 0
 
             pre, cur = 0 if curPoint else 1, curPoint
+            numInfo[cur] = [[], [], [], [], [], [], [], [], [], []]
             numInfoCount[cur] = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
    
         if stop: break
