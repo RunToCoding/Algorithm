@@ -6,10 +6,11 @@ def solution(land):
     
     #차례대로 행 계산
     for i in range(1, rows):
-        land[i][0] += max(land[i-1][1], land[i-1][2], land[i-1][3])     #2행 1열
-        land[i][1] += max(land[i-1][0], land[i-1][2], land[i-1][3])     #2행 1열
-        land[i][2] += max(land[i-1][0], land[i-1][1], land[i-1][3])     #2행 1열
-        land[i][3] += max(land[i-1][0], land[i-1][1], land[i-1][2])     #2행 1열
+        #각 행별로 최댓값 더하기
+        land[i][0] += max(land[i-1][1], land[i-1][2], land[i-1][3])     
+        land[i][1] += max(land[i-1][0], land[i-1][2], land[i-1][3])     
+        land[i][2] += max(land[i-1][0], land[i-1][1], land[i-1][3])     
+        land[i][3] += max(land[i-1][0], land[i-1][1], land[i-1][2])     
         
         #print(land)
     #최대값 출력        
