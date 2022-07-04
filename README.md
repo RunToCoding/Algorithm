@@ -36,6 +36,7 @@
 |Week 02|[배달](https://programmers.co.kr/learn/courses/30/lessons/12978)|[줄어드는수](https://www.acmicpc.net/problem/1174)|
 |Week 03|[땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)|[수익](https://www.acmicpc.net/problem/4097)|
 |Week 04|[합승택시요금](https://programmers.co.kr/learn/courses/30/lessons/72413)|[시간관리](https://www.acmicpc.net/problem/1263)|
+|Week 05|[영어끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981)|[수 찾기](https://www.acmicpc.net/problem/1920)|
 
 ## 😎 Contributer
 
