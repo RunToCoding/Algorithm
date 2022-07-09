@@ -9,8 +9,8 @@ def solution(n, words):
     if list(words[i-1])[-1] == list(words[i])[0] and words[i] not in temp:
       #temp에 저장
       temp.append(words[i])
-      else:#오답
-        #탈락자 번호, 탈락한 라운드 번호 answer에 저장하여 출력
+      else:#탈락
+        #탈락자 번호, 탈락한 라운드 번호 answer 저장하여 출력 후 break
         answer = [i%n+1, i//n+1]
         break
 
