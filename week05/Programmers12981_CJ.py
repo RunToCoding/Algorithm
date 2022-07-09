@@ -10,7 +10,7 @@ def solution(n, words):
       #temp에 저장
       temp.append(words[i])
       else:#오답
-        #탈락자 번호, 탈락한 라운드 번호 answer에 저장
+        #탈락자 번호, 탈락한 라운드 번호 answer에 저장하여 출력
         answer = [i%n+1, i//n+1]
         break
 
