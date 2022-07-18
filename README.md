@@ -38,6 +38,7 @@
 |Week 04|[합승택시요금](https://programmers.co.kr/learn/courses/30/lessons/72413)|[시간관리](https://www.acmicpc.net/problem/1263)|
 |Week 05|[영어끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981)|[수 찾기](https://www.acmicpc.net/problem/1920)|
 |Week 06|[입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)|[숫자 연결하기](https://www.acmicpc.net/problem/1323)|
+|Week 07|[조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)|[조 짜기](https://www.acmicpc.net/problem/2229)|
 
 ## 😎 Contributer
 
