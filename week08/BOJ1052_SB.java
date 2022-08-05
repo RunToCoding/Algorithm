@@ -15,7 +15,7 @@ N=3이고, K=1일 때, 물병 3개를 1개로 만드는 것은 불가능하다.
 마지막으로 4리터가 들어있는 물병 한 개를 만들 수 있다.
 상점에서 사야하는 물병의 최솟값을 출력한다.
  */
-public class BOJ1052 {
+public class BOJ1052_SB {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int waterBottleNum = input.nextInt(); // n
