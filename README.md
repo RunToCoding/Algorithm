@@ -39,4 +39,5 @@
 |Week 05|[영어끝말잇기](https://programmers.co.kr/learn/courses/30/lessons/12981)|[수 찾기](https://www.acmicpc.net/problem/1920)|
 |Week 06|[입국심사](https://school.programmers.co.kr/learn/courses/30/lessons/43238)|[숫자 연결하기](https://www.acmicpc.net/problem/1323)|
 |Week 07|[조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)|[조 짜기](https://www.acmicpc.net/problem/2229)|
-|Week 08|[[3차] 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)|[물별](https://www.acmicpc.net/problem/1052)|
+|Week 08|[[3차] 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)|[물병](https://www.acmicpc.net/problem/1052)|
+|Week 09|[외벽](https://school.programmers.co.kr/learn/courses/30/lessons/60062)|[호텔](https://www.acmicpc.net/problem/1106)|
