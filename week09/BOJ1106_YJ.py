@@ -11,7 +11,7 @@ def main():
   print(solution(c, costs))
 
 def solution(c, costs): # 적어도 c명의 고객을 늘려야 함
-    minCost = [10000 for _ in range(c + 1)]
+    minCost = [100000 for _ in range(c + 1)]
     for needCus in range(0, c + 1): # 필요한 고객의 수 needCus를 0부터 c까지 늘려가며 반복
         for cityCost, cityCus in costs:
             cost = cityCost if needCus <= cityCus else minCost[needCus - cityCus] + cityCost
