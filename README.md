@@ -41,3 +41,4 @@
 |Week 07|[조이스틱](https://school.programmers.co.kr/learn/courses/30/lessons/42860)|[조 짜기](https://www.acmicpc.net/problem/2229)|
 |Week 08|[[3차] 압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684)|[물병](https://www.acmicpc.net/problem/1052)|
 |Week 09|[외벽](https://school.programmers.co.kr/learn/courses/30/lessons/60062)|[호텔](https://www.acmicpc.net/problem/1106)|
+|Week 10|[소수찾기](https://school.programmers.co.kr/learn/courses/30/lessons/42839)|[컴백홈](https://www.acmicpc.net/problem/1189)|
