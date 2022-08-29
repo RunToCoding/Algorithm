@@ -42,7 +42,7 @@ public class Programmers42839 {
     }
 
     private static void countPrimeNumber(char[] number, int len, boolean[] isUsed, String num) {
-        // 만들어진 숫자가 소수인 경우
+        // 처음 만들어진 숫자이며 소수인 경우
         if (num.length() > 0 && !isNotPrime[Integer.parseInt(num)]) {
             primeNumberCnt++;
             isNotPrime[Integer.parseInt(num)] = true; // 중복된 숫자를 사용하지 않도록 true 처리
