@@ -1,4 +1,4 @@
-# 수찾기 - 이진탐색?
+# 수찾기 - 이진탐색? 
 
 N = int(input())
 nums = list(map(int, input().split()))
