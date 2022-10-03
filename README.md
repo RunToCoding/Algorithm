@@ -27,7 +27,7 @@
    - [Solve] ✍ #Programmers 괄호변환
    - [Update] ✍️ README.md
 6. 4주마다 2시간 동안 모의 코딩 테스트 진행
-7. 난이도 : 백준 실버 1 - 골드 4, 프로그래머스 Level 2 - 3
+7. 난이도 : 백준 실버 1 - 골드 3, 프로그래머스 Level 2 - 3
 
 ## 👩‍💻 To Slove
 |Week|Problem 1|Problem 2|
@@ -45,3 +45,4 @@
 |Week 11|[튜플](https://school.programmers.co.kr/learn/courses/30/lessons/64065)|[노드 사이의 거리](https://www.acmicpc.net/problem/1240)|
 |Week 12|[두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)|[강의실](https://www.acmicpc.net/problem/1374)|
 |Week 13|[블록 이동하기](https://school.programmers.co.kr/learn/courses/30/lessons/60063)|[회전초밥](https://www.acmicpc.net/problem/2531)|
+|Week 14|[줄 서는 방법](https://school.programmers.co.kr/learn/courses/30/lessons/12936)|[타임머신](https://www.acmicpc.net/problem/11657)|
